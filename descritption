@@ -1,2 +1,10 @@
-##Introduction
-this is a test 
+INTRODUCTION 
+Toronto is a big city and has many neighborhoods that have a sufficient number of shops and food venues.
+Business owners would like to know which kinds of food venues (type of cuisine) lack in which neghborhoods in the city 
+as this might give them an insight on what type of restaurant do particular neighborhoods need. Therefore, the objective of this 
+project is to create a recommendation list which inlists the types of food venues needed in which neghborhoods. 
+
+
+DATA
+The list will be created after exploring each neighborhood and sorting the restaurants by type. Then, the restaurants will be grouped 
+and counted to see if there is a sufficient number of that restaurnt type in a particular neighborhood.
